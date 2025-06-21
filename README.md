@@ -7,7 +7,7 @@ Passionate about applying deep learning to real-world problems, especially in mu
 
 ## 🧩 About Me
 - 🔬 ML Researcher and Engineer
-- 🧠 ICPC, Informatics & Physics Olympiad finalist
+- 🧠 ICPC, Informatics & Mathematics Olympiad finalist
 - 💻 C++, Python, PyTorch, Transformers, Docker
 - 🎙 Lecturer and TA
 
@@ -16,8 +16,28 @@ Passionate about applying deep learning to real-world problems, especially in mu
 ## 📚 Highlighted Projects
 
 ### 🔹 [`mr_Eider`](https://github.com/DavidTovmasyan/mr_Eider)
-Document-level relation extraction using EIDER + Class-Incremental Learning extensions  
+Multilingual Document-level relation extraction using EIDER + Class-Incremental Learning extensions  
 `Transformers` `LLM` `DocRED` `PyTorch`
+
+### 🔹 [`Fire Classification`](https://github.com/DavidTovmasyan/FireClassification)
+Fire detection and classification tools using machine learning and computer vision.
+`Transformers` `Computer Vision` `PyTorch`
+
+### 🔹 [`Federated Learning`](https://github.com/DavidTovmasyan/FederatedLearning)
+Training the ResNet18 model on CIFAR-10 by applying FedAvg and FLTrust algorithms.
+`Transformers` `Computer Vision` `PyTorch`
+
+### 🔹 [`Federated Learning`](https://github.com/DavidTovmasyan/FederatedLearning)
+Training the ResNet18 model on CIFAR-10 by applying FedAvg and FLTrust algorithms.
+`Transformers` `Computer Vision` `PyTorch`
+
+### 🔹 [`Graph Coloring`](https://github.com/DavidTovmasyan/GraphColoring)
+Coloring the graph with the minimum possible colors as the adjacent nodes are not colored with the same color.
+`Algorithms` `DS` `Graph Theory`
+
+### 🔹 [`Person Tracking`](https://github.com/DavidTovmasyan/Person-tracking)
+Person tracking using Raspberry Pi4 and openCV.
+`Transformers` `Computer Vision` `PyTorch` `Raspberry PI`
 
 
 ---
